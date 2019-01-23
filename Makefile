@@ -1,5 +1,5 @@
-DOCKER_TAG=tplan_build
-DOCKER_NAME=tplan_build
+DOCKER_TAG=tfplan_build
+DOCKER_NAME=tfplan_build
 
 itest_%: itest
 
